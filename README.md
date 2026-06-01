@@ -3,6 +3,7 @@
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
+![NeetCode Progress](https://raw.githubusercontent.com/smrutisurekha9090/neetcode-submissions/main/Screenshot%202026-06-02%20011220.png)
 
 ## What is this?
 
